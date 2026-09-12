@@ -111,3 +111,10 @@ ecommerce-customer-revenue-analysis/
 ├── Ecommerce_Analytics_Dashboard.pdf
 ├── README.md
 └── additional analysis files
+```
+
+## Author
+
+**Paniebi Karis Ovuru**
+
+Data Analyst | SQL | Python | Power BI  
