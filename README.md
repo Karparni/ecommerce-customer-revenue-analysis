@@ -166,6 +166,7 @@ ecommerce-customer-revenue-analysis/
 ├── Products_and_Payments.png
 ├── Operations_and_Sellers.png
 ├── Ecommerce_Analytics_Dashboard.pdf
+├── requirements.txt
 └── README.md
 ```
 
