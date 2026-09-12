@@ -13,6 +13,20 @@ The final dashboard contains four report pages:
 - Products & Payments
 - Operations & Sellers
 
+## Dashboard Preview
+
+### Executive Overview
+![Executive Overview](Executive_Overview.png)
+
+### Customers & Markets
+![Customers and Markets](Customers_and_Markets.png)
+
+### Products & Payments
+![Products and Payments](Products_and_Payments.png)
+
+### Operations & Sellers
+![Operations and Sellers](Operations_and_Sellers.png)
+
 ## Tools Used
 
 - SQL — data querying and analysis
