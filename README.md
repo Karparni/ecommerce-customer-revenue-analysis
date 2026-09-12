@@ -122,9 +122,33 @@ The completed Power BI dashboard is available here:
 ```text
 ecommerce-customer-revenue-analysis/
 │
+├── python/
+│   ├── 01_data_overview.py
+│   ├── 02_relationship_audit.py
+│   ├── 03_data_cleaning.py
+│   ├── 04_build_analysis_dataset.py
+│   ├── 05_business_performance.py
+│   ├── 06_product_category_analysis.py
+│   ├── 07_customer_cohort_analysis.py
+│   ├── 08_payment_behavior.py
+│   ├── 09_customer_rfm_analysis.py
+│   ├── 10_seller_performance.py
+│   └── README.md
+│
+├── sql/
+│   ├── 01_database_setup.sql
+│   ├── 02_business_kpis.sql
+│   ├── 03_customer_analysis.sql
+│   ├── 04_product_seller_analysis.sql
+│   ├── 05_payment_delivery_analysis.sql
+│   └── README.md
+│
+├── Executive_Overview.png
+├── Customers_and_Markets.png
+├── Products_and_Payments.png
+├── Operations_and_Sellers.png
 ├── Ecommerce_Analytics_Dashboard.pdf
-├── README.md
-└── additional analysis files
+└── README.md
 ```
 
 ## Author
