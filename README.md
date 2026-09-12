@@ -27,6 +27,24 @@ The final dashboard contains four report pages:
 ### Operations & Sellers
 ![Operations and Sellers](Operations_and_Sellers.png)
 
+## Data Source
+
+This project uses the **Brazilian E-Commerce Public Dataset by Olist**, containing real anonymized marketplace orders from Brazil.
+
+The dataset includes multiple relational tables covering:
+
+- Customers and geographic information
+- Orders and delivery timestamps
+- Order items and product prices
+- Products and product categories
+- Sellers
+- Payment methods and installments
+- Customer reviews
+
+The raw tables were profiled, validated, cleaned, and transformed in Python before being analyzed with SQL and modeled in Power BI.
+
+> The raw dataset is not included in this repository. The repository focuses on the analytical workflow, code, and final dashboard outputs.
+
 ## Tools Used
 
 - SQL — data querying and analysis
